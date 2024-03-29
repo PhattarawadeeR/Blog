@@ -1,0 +1,19 @@
+Sort
+- เดือน/วันที่/ปี - Date format JS (Default)
+- เดือนนับจาก 0-11
+- เปรียบเทียบ sort ด้วย unit time
+
+Assignment
+3.More photo
+    - setInterval()
+4.Pagination
+    - .slice(start, end)
+
+Advance Feature
+- Main UI layout component design
+
+git-branch
+as4
+as3
+as2
+as1

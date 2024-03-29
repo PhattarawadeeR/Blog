@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Skooldio 1",
+    "description": "Nobis quo est corporis totam dolores. Rerum quam autem debitis dolores sunt et quis occaecati. Nam dolorem dolores.",
+    "publishedDate": "4/1/2024",
+    "imageURL": "https://fastly.picsum.photos/id/689/300/200.jpg?hmac=zkrxsEoggN27cvjxFc1gwVB25Dd95HhR66wuyoY7wPU",
+    "url": "/src/blogs/1.html"
+  },
+  {
+    "title": "Skooldio 2",
+    "description": "Hello at KX",
+    "publishedDate": "4/3/2024",
+    "imageURL": "https://fastly.picsum.photos/id/689/300/200.jpg?hmac=zkrxsEoggN27cvjxFc1gwVB25Dd95HhR66wuyoY7wPU",
+    "url": "/src/blogs/2.html"
+  }
+]
